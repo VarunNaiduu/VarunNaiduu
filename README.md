@@ -3,7 +3,7 @@ I’m a certified Digital Marketing professional with a strong foundation in Goo
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=)]
 (https://www.linkedin.com/in/varun-naidu--/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Civil_Pineapple9887) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]
 (mailto:varunnaiduu7@gmail.com) 
