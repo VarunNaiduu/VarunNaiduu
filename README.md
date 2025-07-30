@@ -1,9 +1,4 @@
-## HELLO 👋
-
-<!--
-**VarunNaiduu/VarunNaiduu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--# 💫 About Me:
+# 💫 About Me:
 I’m a certified Digital Marketing professional with a strong foundation in Google Ads, SEO/SEM, content strategy, and website optimisation. With hands-on experience in creating end-to-end digital campaigns, I help brands grow through high-converting ads, engaging content, and data-driven decisions.<br>My toolkit includes Google Ads (Search & Display), Meta Ads, SEO tools, Canva, Power BI, and content creation platforms. I’m also skilled in website development and analytics — making me a full-stack digital marketer ready to contribute across channels.<br>Certified by Google, LinkedIn, and eMarketing Institute, I continuously up-skill and apply industry best practices. Whether it’s building lead funnels, optimising websites for SEO, or designing brand visuals — I bring both creativity and strategy.<br>Let’s connect if you’re looking for a digital marketer who can blend analytics, creativity, and technology to drive business growth.
 
 
@@ -21,4 +16,3 @@ I’m a certified Digital Marketing professional with a strong foundation in Goo
 [![](https://visitcount.itsvg.in/api?id=VarunNaiduu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
