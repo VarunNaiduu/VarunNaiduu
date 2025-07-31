@@ -1,11 +1,4 @@
 # Varun Naidu - Portfolio Website 
-
-## Overview
-Create a sleek, modern portfolio website for **Varun Naidu**, a Certified Digital Marketer with expertise in Google Ads, SEO/SEM, UI/UX design, content strategy, and web development.  
-The site should highlight his results-driven mindset and creativity in digital performance marketing. Use a **dark mode theme** that conveys professionalism and presents accurate, data-backed information.
-
-Include a professional profile picture of Varun on the homepage and About section to humanize the brand and connect with potential clients or employers.
-
 ---
 
 ## Website Structure
