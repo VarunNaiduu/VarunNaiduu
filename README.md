@@ -1,63 +1,107 @@
-# Varun Naidu - Portfolio Website 
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Varun Naidu - Portfolio Website</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
 
-### 1. About
-Certified Digital Marketer skilled in Google Ads, SEO/SEM, content strategy, and website optimization. I create high-converting campaigns, engaging content, and data-driven strategies to help brands grow. Proficient in Google & Meta Ads, SEO tools, Canva, Power BI, and website development. With certifications from Google, LinkedIn, and eMarketing Institute, I blend creativity with performance marketing across channels.  
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      color: #333;
+      background-color: #f9f9f9;
+      padding: 20px;
+    }
 
-### 2. Education:  
-  - Bachelor of Hotel Management, International Institute of Hotel Management (IIHM), Jul 2018 – Oct 2021
+    header {
+      background: #333;
+      color: #fff;
+      padding: 60px 20px;
+      text-align: center;
+    }
 
-### 3. Experience 
-  - Marketing Consultant –
-    Lawyal Tech (Feb 2025 – Apr 2025, Remote)  
-  - Territory Sales Executive –
-    Allied Blenders & Distillers Ltd. (Jan 2023 – Jul 2024)  
-  - Sales and Marketing Specialist –
-    M.B. Marketing Pvt. Ltd. (Oct 2021 – Dec 2022)  
-  - Industrial Trainee –
-    Renaissance Bengaluru Race Course Hotel (Nov 2019 – Mar 2020)
+    header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
 
-### 4. Skills & Services  
-  - **Advertising:** Google Ads (Display, Search), Meta Ads, LinkedIn & Twitter Ads  
-  - **SEO & SEM:** Keyword research, bid optimization, On & Off-page SEO, backlink creation  
-  - **Design:** Adobe Illustrator, Photoshop, Canva, UI/UX Design, Procreate  
-  - **Analytics:** Power BI, Data visualization, data cleaning, hypothesis testing, regression  
-  - **Process Improvement:** Lean Six Sigma – process optimization, defect reduction  
-  - **Sales & CRM:** Lead generation, consultative selling, negotiation  
-  
-### 5. Services Offered:  
-  - UI/UX Design & Web Design  
-  - Google Ads & Social Media Ads  
-  - On & Off-Page SEO  
-  - Keyword Research & Bid Optimization  
-  - Backlink Creation & Strategy
+    header p {
+      font-size: 1.2rem;
+      color: #ccc;
+    }
 
-### 6. Certifications
-- Google Coursera - Foundation of Digital Marketing & E-commerce  
-- Google Coursera - Business Analysis & Process Management  
-- Google Coursera - Investment Risk Management  
-- Google Skillshop - Analytics Individual Qualification  
-- Google Skillshop - Google ADS Display  
-- Google Skillshop - Google ADS Search  
-- e-Marketing Institute - Search Engine Optimisation  
-- e-Marketing Institute - Search Engine Marketing  
-- e-Marketing Institute - Social Media Marketing  
-- AIGPE - Lean Six Sigma Yellow Belt  
-- AIGPE - Lean Six Sigma Green Belt  
-- LinkedIn - Practical GitHub Actions  
-- LinkedIn - Microsoft Power BI Data Analyst Associate  
-- LinkedIn - Generative AI Power Prompter and Content Designer  
-- LinkedIn - Artificial Intelligence Foundations: Machine Learning  
-- LinkedIn - Prompt Engineering with Gemini  
-- Udemy - The Complete Python Developer
+    .section {
+      max-width: 800px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
 
-### 7. Contact 
-  - 📧 varunnaiduu7@gmail.com  
-  - 📞 +91-7416993082  
-  - 🔗 [LinkedIn](https://www.linkedin.com/in/varun-naidu--)  
----
+    .section h2 {
+      font-size: 1.8rem;
+      margin-bottom: 20px;
+      border-bottom: 2px solid #eee;
+      padding-bottom: 10px;
+    }
 
+    .section p,
+    .section li {
+      font-size: 1rem;
+      margin-bottom: 10px;
+    }
 
+    .edu-exp {
+      margin-bottom: 20px;
+    }
 
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 2rem;
+      }
 
+      .section {
+        padding: 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Varun Naidu</h1>
+    <p>Certified Digital Marketer</p>
+  </header>
 
+  <section class="section" id="about">
+    <h2>About</h2>
+    <p>
+      Certified Digital Marketer skilled in Google Ads, SEO/SEM, content strategy, and website optimisation. I create high-converting campaigns, engaging content, and data-driven strategies to help brands grow. Proficient in Google & Meta Ads, SEO tools, Canva, Power BI, and website development. With certifications from Google, LinkedIn, and eMarketing Institute, I blend creativity with performance marketing across channels.
+    </p>
+  </section>
+
+  <section class="section" id="education">
+    <h2>Education</h2>
+    <div class="edu-exp">
+      <p><strong>Bachelor of Hotel Management</strong></p>
+      <p>International Institute of Hotel Management (IIHM)</p>
+      <p>Jul 2018 – Oct 2021</p>
+    </div>
+  </section>
+
+  <section class="section" id="experience">
+    <h2>Experience</h2>
+    <div class="edu-exp">
+      <p><strong>Marketing Consultant</strong></p>
+      <p>Lawyal Tech (Remote)</p>
+      <p>Feb 2025 – Apr 2025</p>
+    </div>
+  </section>
+</body>
+</html>
