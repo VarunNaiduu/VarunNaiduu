@@ -7,12 +7,15 @@ Certified Digital Marketer skilled in Google Ads, SEO/SEM, content strategy, and
 ### 2. Education:  
   - Bachelor of Hotel Management, International Institute of Hotel Management (IIHM), Jul 2018 – Oct 2021
 
-### 3. Experience
-- Timeline or sectioned layout:  
-  - Marketing Consultant – Lawyal Tech (Feb 2025 – Apr 2025, Remote)  
-  - Territory Sales Executive – Allied Blenders & Distillers Ltd. (Jan 2023 – Jul 2024)  
-  - Sales and Marketing Specialist – M.B. Marketing Pvt. Ltd. (Oct 2021 – Dec 2022)  
-  - Industrial Trainee – Renaissance Bengaluru Race Course Hotel (Nov 2019 – Mar 2020)
+### 3. Experience 
+  - Marketing Consultant –
+    Lawyal Tech                     (Feb 2025 – Apr 2025, Remote)  
+  - Territory Sales Executive –
+    Allied Blenders & Distillers Ltd.       (Jan 2023 – Jul 2024)  
+  - Sales and Marketing Specialist –
+    M.B. Marketing Pvt. Ltd.                (Oct 2021 – Dec 2022)  
+  - Industrial Trainee –
+    Renaissance Bengaluru Race Course Hotel (Nov 2019 – Mar 2020)
 
 ### 4. Skills & Services  
   - **Advertising:** Google Ads (Display, Search), Meta Ads, LinkedIn & Twitter Ads  
