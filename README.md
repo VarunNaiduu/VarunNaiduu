@@ -33,22 +33,11 @@ Certified Digital Marketer skilled in Google Ads, SEO/SEM, content strategy, and
   - Backlink Creation & Strategy
 
 ### 6. Certifications
-- Google Coursera - Foundation of Digital Marketing & E-commerce  
-- Google Coursera - Business Analysis & Process Management  
-- Google Coursera - Investment Risk Management  
-- Google Skillshop - Analytics Individual Qualification  
-- Google Skillshop - Google ADS Display  
-- Google Skillshop - Google ADS Search  
-- e-Marketing Institute - Search Engine Optimisation  
-- e-Marketing Institute - Search Engine Marketing  
-- e-Marketing Institute - Social Media Marketing  
-- AIGPE - Lean Six Sigma Yellow Belt  
-- AIGPE - Lean Six Sigma Green Belt  
-- LinkedIn - Practical GitHub Actions  
-- LinkedIn - Microsoft Power BI Data Analyst Associate  
-- LinkedIn - Generative AI Power Prompter and Content Designer  
-- LinkedIn - Artificial Intelligence Foundations: Machine Learning  
-- LinkedIn - Prompt Engineering with Gemini  
+- Google Coursera - Foundation of Digital Marketing & E-commerce, Business Analysis & Process Management, Investment Risk Management
+- Google Skillshop - Analytics Individual Qualification, Google ADS Display, Google ADS Search
+- e-Marketing Institute - Search Engine Optimisation, Search Engine Marketing, Social Media Marketing  
+- AIGPE - Lean Six Sigma Yellow Belt, Lean Six Sigma Green Belt 
+- LinkedIn - Practical GitHub Actions, Microsoft Power BI Data Analyst Associate, Generative AI Power Prompter and Content Designer, Artificial Intelligence Foundations: Machine Learning, Prompt Engineering with Gemini 
 - Udemy - The Complete Python Developer
 
 ### 7. Contact 
