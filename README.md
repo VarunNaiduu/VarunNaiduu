@@ -40,6 +40,8 @@ Certified Digital Marketer skilled in Google Ads, SEO/SEM, content strategy, and
 - LinkedIn - Practical GitHub Actions, Microsoft Power BI Data Analyst Associate, Generative AI Power Prompter and Content Designer, Artificial Intelligence Foundations: Machine Learning, Prompt Engineering with Gemini 
 - Udemy - The Complete Python Developer
 
+- ![image alt](https://github.com/VarunNaiduu/VarunNaiduu/blob/e9f1648e8c3d17b44a4c4c981ec8f66721a2af52/1738171740494.jpeg)
+
 ### 7. Contact 
   - 📧 varunnaiduu7@gmail.com  
   - 📞 +91-7416993082  
